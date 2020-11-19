@@ -1,4 +1,4 @@
-## What you will create
+## What is this app about?
 
 This is a personal business card. 
 
